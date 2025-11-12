@@ -1,4 +1,4 @@
-# 🍔 I Hungry Burger Shop - LinkedList Edition
+# 🍔 I Hungry Burger Shop - Linked List Edition
 
 **Author:** Shameel Shajaad  
 **Module:** Object-Oriented Programming & Data Structures and Algorithms (ICET Institute)  
@@ -75,7 +75,7 @@ IHungryBurgerShop-LinkedList-Edition/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ShameelShajaad/I-Hungry-BurgerShop-LinkedList-Edition.git
+   git clone https://github.com/ShameelShajaad/I-Hungry-Burger-Shop-Linked-List-Edition-.git
 
 2. **Open in NetBeans**
    -Open NetBeans IDE
